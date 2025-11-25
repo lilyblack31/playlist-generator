@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-11-15T01:41:07Z</date>
+	<key>Application Version</key><string>1.6.1.44</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/aditinarendran/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E093D6DF24BAC43B</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1842</key>
+		<dict>
+			<key>Track ID</key><integer>1842</integer>
+			<key>Name</key><string>Yet To Come</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, RM, MAX, Dan Gleyzer, SUGA &#38; j-hope</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7049608</integer>
+			<key>Total Time</key><integer>193594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-09-22T02:22:57Z</date>
+			<key>Date Added</key><date>2022-09-22T03:22:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Play Date</key><integer>3845907015</integer>
+			<key>Play Date UTC</key><date>2025-11-14T03:30:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2025-01-10T20:25:39Z</date>
+			<key>Release Date</key><date>2022-06-10T12:00:00Z</date>
+			<key>Normalization</key><integer>5483</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Proof</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Yet To Come</string>
+			<key>Persistent ID</key><string>B1289C77862C60BD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2064</key>
+		<dict>
+			<key>Track ID</key><integer>2064</integer>
+			<key>Name</key><string>Waste It on Me (feat. BTS)</string>
+			<key>Artist</key><string>Steve Aoki</string>
+			<key>Album Artist</key><string>Steve Aoki</string>
+			<key>Composer</key><string>Steve Aoki, Jeff Halavacs, Ryan Ogren, Michael Gazzo, Nate Cyphert, Sean Foreman &#38; Kim Nam Jun</string>
+			<key>Album</key><string>Neon Future III</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6930147</integer>
+			<key>Total Time</key><integer>192537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-24T18:17:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Neon Future III</string>
+			<key>Sort Artist</key><string>Steve Aoki</string>
+			<key>Sort Name</key><string>Waste It on Me (feat. BTS)</string>
+			<key>Persistent ID</key><string>4E023B3DBB5F7977</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2098</key>
+		<dict>
+			<key>Track ID</key><integer>2098</integer>
+			<key>Name</key><string>Life Goes On</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Antonina Armato, Chris James, RM, Ruuth, SUGA, j-hope &#38; P-DOGG</string>
+			<key>Album</key><string>BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7528038</integer>
+			<key>Total Time</key><integer>207481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-09-24T18:18:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3765705720</integer>
+			<key>Play Date UTC</key><date>2023-04-30T20:22:00Z</date>
+			<key>Release Date</key><date>2020-11-20T12:00:00Z</date>
+			<key>Normalization</key><integer>4678</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BE</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Life Goes On</string>
+			<key>Persistent ID</key><string>84722E794251936A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2367</key>
+		<dict>
+			<key>Track ID</key><integer>2367</integer>
+			<key>Name</key><string>DNA</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Bang Si Hyuk, KASS, RM, SUGA, Supreme Boi &#38; P-DOGG</string>
+			<key>Album</key><string>LOVE YOURSELF 承 'Her'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7966932</integer>
+			<key>Total Time</key><integer>223123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-09-29T16:18:59Z</date>
+			<key>Date Added</key><date>2025-06-21T01:39:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3845894899</integer>
+			<key>Play Date UTC</key><date>2025-11-14T00:08:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Release Date</key><date>2017-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LOVE YOURSELF 承 'Her'</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>DNA</string>
+			<key>Persistent ID</key><string>541636575BEF89A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2369</key>
+		<dict>
+			<key>Track ID</key><integer>2369</integer>
+			<key>Name</key><string>FAKE LOVE</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, RM &#38; Bang Si Hyuk</string>
+			<key>Album</key><string>Love Yourself 轉 'Tear'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8537735</integer>
+			<key>Total Time</key><integer>242334</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-29T16:18:59Z</date>
+			<key>Date Added</key><date>2025-06-26T19:42:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3845906613</integer>
+			<key>Play Date UTC</key><date>2025-11-14T03:23:33Z</date>
+			<key>Release Date</key><date>2018-05-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Yourself 轉 'Tear'</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>FAKE LOVE</string>
+			<key>Persistent ID</key><string>36C9A95BDCC0747D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2401</key>
+		<dict>
+			<key>Track ID</key><integer>2401</integer>
+			<key>Name</key><string>Burning Up (FIRE)</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Bang Si Hyuk, Devine Channel, RM, SUGA &#38; P-DOGG</string>
+			<key>Album</key><string>The Most Beautiful Moment in Life: Young Forever</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7344457</integer>
+			<key>Total Time</key><integer>203352</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:18:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-05-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Most Beautiful Moment in Life: Young Forever</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Burning Up (FIRE)</string>
+			<key>Persistent ID</key><string>64336A62AC9F06B4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2509</key>
+		<dict>
+			<key>Track ID</key><integer>2509</integer>
+			<key>Name</key><string>Airplane Pt.2</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Ali Tamposi, Bang Si Hyuk, Lize Owen, RM, Roman Campolo, SUGA, j-hope &#38; P-DOGG</string>
+			<key>Album</key><string>Love Yourself 結 'Answer'</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7971443</integer>
+			<key>Total Time</key><integer>218615</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-05-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Yourself 結 'Answer'</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Airplane Pt.2</string>
+			<key>Persistent ID</key><string>EB56F4C029059322</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2519</key>
+		<dict>
+			<key>Track ID</key><integer>2519</integer>
+			<key>Name</key><string>INTRO : Ringwanderung</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>UTA, Andrew Taggart, Pdogg, Ray Michael Djan Jr, Ashton Foster, Sam Klempner, RM, Bang, SUGA, j-hope &#38; Adora</string>
+			<key>Album</key><string>FACE YOURSELF</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3395769</integer>
+			<key>Total Time</key><integer>86053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-04-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FACE YOURSELF</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>INTRO : Ringwanderung</string>
+			<key>Persistent ID</key><string>BF2E82F109D99783</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2541</key>
+		<dict>
+			<key>Track ID</key><integer>2541</integer>
+			<key>Name</key><string>OUTRO : Crack</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>UTA</string>
+			<key>Album</key><string>FACE YOURSELF</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2918719</integer>
+			<key>Total Time</key><integer>74747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-04-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>FACE YOURSELF</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>OUTRO : Crack</string>
+			<key>Persistent ID</key><string>EF32F830FF841351</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2547</key>
+		<dict>
+			<key>Track ID</key><integer>2547</integer>
+			<key>Name</key><string>MAMA</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, j-hope &#38; Primary</string>
+			<key>Album</key><string>Wings</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7537576</integer>
+			<key>Total Time</key><integer>212275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-10-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wings</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>MAMA</string>
+			<key>Persistent ID</key><string>8BDF3CA0F95BAEAD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2555</key>
+		<dict>
+			<key>Track ID</key><integer>2555</integer>
+			<key>Name</key><string>Intro: Boy Meets Evil</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>RM, j-hope &#38; P-DOGG</string>
+			<key>Album</key><string>Wings</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4543690</integer>
+			<key>Total Time</key><integer>121771</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-10-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wings</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Intro: Boy Meets Evil</string>
+			<key>Persistent ID</key><string>7E3BC602DEED16D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2577</key>
+		<dict>
+			<key>Track ID</key><integer>2577</integer>
+			<key>Name</key><string>Interlude: Wings</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Adora, RM, SUGA, j-hope &#38; P-DOGG</string>
+			<key>Album</key><string>Wings</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5332934</integer>
+			<key>Total Time</key><integer>144314</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Date Added</key><date>2025-06-25T23:08:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3834149700</integer>
+			<key>Play Date UTC</key><date>2025-07-01T00:35:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-07-18T23:53:35Z</date>
+			<key>Release Date</key><date>2016-10-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wings</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Interlude: Wings</string>
+			<key>Persistent ID</key><string>C86055ECB09ED7D6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2595</key>
+		<dict>
+			<key>Track ID</key><integer>2595</integer>
+			<key>Name</key><string>21st Century Girl</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Bang Si Hyuk, RM, Supreme Boi &#38; P-DOGG</string>
+			<key>Album</key><string>YOU NEVER WALK ALONE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7016371</integer>
+			<key>Total Time</key><integer>192597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-10-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>YOU NEVER WALK ALONE</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>21st Century Girl</string>
+			<key>Persistent ID</key><string>0031CBB0CC4F7979</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2611</key>
+		<dict>
+			<key>Track ID</key><integer>2611</integer>
+			<key>Name</key><string>INTRO : Never Mind</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>SUGA &#38; Slow Rabbit</string>
+			<key>Album</key><string>The Most Beautiful Moment in Life, Pt. 2</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5091033</integer>
+			<key>Total Time</key><integer>136428</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Most Beautiful Moment in Life, Pt. 2</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>INTRO : Never Mind</string>
+			<key>Persistent ID</key><string>0B6CF4D59BD27A28</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2681</key>
+		<dict>
+			<key>Track ID</key><integer>2681</integer>
+			<key>Name</key><string>Intro: The Most Beautiful Moment in Life</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>SUGA &#38; Slow Rabbit</string>
+			<key>Album</key><string>The Most Beautiful Moment in Life, Pt. 1</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4597864</integer>
+			<key>Total Time</key><integer>123033</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-04-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Most Beautiful Moment in Life, Pt. 1</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Intro: The Most Beautiful Moment in Life</string>
+			<key>Persistent ID</key><string>025BF0B41DD96E7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2747</key>
+		<dict>
+			<key>Track ID</key><integer>2747</integer>
+			<key>Name</key><string>Interlude</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Slow Rabbit</string>
+			<key>Album</key><string>2 COOL 4 SKOOL</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2297923</integer>
+			<key>Total Time</key><integer>52440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-06-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2 COOL 4 SKOOL</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Interlude</string>
+			<key>Persistent ID</key><string>188E07CB1A38B585</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2901</key>
+		<dict>
+			<key>Track ID</key><integer>2901</integer>
+			<key>Name</key><string>Burning Up (FIRE)</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, "Hitman" Bang, RM, SUGA &#38; Devine Channel</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7400987</integer>
+			<key>Total Time</key><integer>203958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:04Z</date>
+			<key>Date Added</key><date>2025-06-27T00:10:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837310945</integer>
+			<key>Play Date UTC</key><date>2025-08-06T14:42:25Z</date>
+			<key>Release Date</key><date>2016-05-02T12:00:00Z</date>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Proof</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Burning Up (FIRE)</string>
+			<key>Persistent ID</key><string>DACF7481A3957244</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2917</key>
+		<dict>
+			<key>Track ID</key><integer>2917</integer>
+			<key>Name</key><string>DNA</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, "Hitman" Bang, KASS, Supreme Boi, SUGA &#38; RM</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8041431</integer>
+			<key>Total Time</key><integer>223442</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:04Z</date>
+			<key>Date Added</key><date>2025-06-25T19:45:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845810115</integer>
+			<key>Play Date UTC</key><date>2025-11-13T00:35:15Z</date>
+			<key>Release Date</key><date>2017-09-18T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Proof</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>DNA</string>
+			<key>Persistent ID</key><string>4FD74E8D2DA602E0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2927</key>
+		<dict>
+			<key>Track ID</key><integer>2927</integer>
+			<key>Name</key><string>FAKE LOVE</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, "Hitman" Bang &#38; RM</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8630975</integer>
+			<key>Total Time</key><integer>242334</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:04Z</date>
+			<key>Date Added</key><date>2025-07-03T17:13:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3837240948</integer>
+			<key>Play Date UTC</key><date>2025-08-05T19:15:48Z</date>
+			<key>Release Date</key><date>2018-05-18T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Proof</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>FAKE LOVE</string>
+			<key>Persistent ID</key><string>0CDEA0831B4433A2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2929</key>
+		<dict>
+			<key>Track ID</key><integer>2929</integer>
+			<key>Name</key><string>Fly To My Room</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Joe Femi Griffith, RM, SUGA, j-hope &#38; Cosmo's Midnight</string>
+			<key>Album</key><string>BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7993796</integer>
+			<key>Total Time</key><integer>222243</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-11-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BE</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Fly To My Room</string>
+			<key>Persistent ID</key><string>2AD731DA11CF4BA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2965</key>
+		<dict>
+			<key>Track ID</key><integer>2965</integer>
+			<key>Name</key><string>Life Goes On</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>P-DOGG, RM, BLVSH, Chris James, Antonina Armato, SUGA &#38; j-hope</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7528534</integer>
+			<key>Total Time</key><integer>208088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-09-29T16:19:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-11-20T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Proof</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Life Goes On</string>
+			<key>Persistent ID</key><string>0A10F77EFC04C307</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3187</key>
+		<dict>
+			<key>Track ID</key><integer>3187</integer>
+			<key>Name</key><string>Wild Flower (with 조유진)</string>
+			<key>Artist</key><string>RM</string>
+			<key>Album Artist</key><string>RM</string>
+			<key>Composer</key><string>RM &#38; Docskim</string>
+			<key>Album</key><string>Indigo</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9971007</integer>
+			<key>Total Time</key><integer>273500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-12-05T01:42:21Z</date>
+			<key>Date Added</key><date>2025-06-27T00:11:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3845903237</integer>
+			<key>Play Date UTC</key><date>2025-11-14T02:27:17Z</date>
+			<key>Release Date</key><date>2022-12-02T12:00:00Z</date>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6296</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Indigo</string>
+			<key>Sort Artist</key><string>RM</string>
+			<key>Sort Name</key><string>Wild Flower (with 조유진)</string>
+			<key>Persistent ID</key><string>7F0A34CF83BBCB8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>3569</key>
+		<dict>
+			<key>Track ID</key><integer>3569</integer>
+			<key>Name</key><string>Haegeum</string>
+			<key>Artist</key><string>Agust D</string>
+			<key>Album Artist</key><string>Agust D</string>
+			<key>Composer</key><string>Agust D</string>
+			<key>Album</key><string>D-DAY</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6170267</integer>
+			<key>Total Time</key><integer>168926</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-05-17T09:56:26Z</date>
+			<key>Date Added</key><date>2023-05-16T21:26:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>79</integer>
+			<key>Play Date</key><integer>3845905041</integer>
+			<key>Play Date UTC</key><date>2025-11-14T02:57:21Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-12-31T07:15:10Z</date>
+			<key>Release Date</key><date>2023-04-21T12:00:00Z</date>
+			<key>Normalization</key><integer>7208</integer>
+			<key>Sort Album</key><string>D-DAY</string>
+			<key>Sort Artist</key><string>Agust D</string>
+			<key>Sort Name</key><string>Haegeum</string>
+			<key>Persistent ID</key><string>7E1024B315848315</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+			<key>Location</key><string>file:///Users/aditinarendran/Music/iTunes/iTunes%20Media/Apple%20Music/Agust%20D/D-DAY/02%20Haegeum.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4750</key>
+		<dict>
+			<key>Track ID</key><integer>4750</integer>
+			<key>Name</key><string>Who</string>
+			<key>Artist</key><string>Jimin</string>
+			<key>Album Artist</key><string>Jimin</string>
+			<key>Composer</key><string>Jon Bellion, Pete Nappi, Jason Cornet, Pdogg &#38; GHSTLOOP</string>
+			<key>Album</key><string>MUSE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6212880</integer>
+			<key>Total Time</key><integer>170888</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2024-11-14T19:41:23Z</date>
+			<key>Date Added</key><date>2025-06-29T06:05:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3845907185</integer>
+			<key>Play Date UTC</key><date>2025-11-14T03:33:05Z</date>
+			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MUSE</string>
+			<key>Sort Artist</key><string>Jimin</string>
+			<key>Sort Name</key><string>Who</string>
+			<key>Persistent ID</key><string>C09A474288B8CC39</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4778</key>
+		<dict>
+			<key>Track ID</key><integer>4778</integer>
+			<key>Name</key><string>Seven (Clean Ver.)</string>
+			<key>Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Album Artist</key><string>Jung Kook</string>
+			<key>Composer</key><string>Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas &#38; Latto</string>
+			<key>Album</key><string>GOLDEN</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6611336</integer>
+			<key>Total Time</key><integer>184160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2024-11-14T19:44:22Z</date>
+			<key>Date Added</key><date>2025-07-04T01:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3838699510</integer>
+			<key>Play Date UTC</key><date>2025-08-22T16:25:10Z</date>
+			<key>Release Date</key><date>2023-07-14T12:00:00Z</date>
+			<key>Album Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GOLDEN</string>
+			<key>Sort Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Sort Name</key><string>Seven (Clean Ver.)</string>
+			<key>Persistent ID</key><string>CBD717B201226FBE</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5236</key>
+		<dict>
+			<key>Track ID</key><integer>5236</integer>
+			<key>Name</key><string>Killin' It Girl</string>
+			<key>Artist</key><string>j-hope &#38; GloRilla</string>
+			<key>Album Artist</key><string>j-hope &#38; GloRilla</string>
+			<key>Composer</key><string>Cirkut, Blake Slatkin, inverness, Theron Thomas, Jessica Agombar, GloRilla, j-hope &#38; Pdogg</string>
+			<key>Album</key><string>Killin' It Girl (Remixes)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5496897</integer>
+			<key>Total Time</key><integer>148714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-21T00:40:01Z</date>
+			<key>Date Added</key><date>2025-06-21T01:40:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3845811770</integer>
+			<key>Play Date UTC</key><date>2025-11-13T01:02:50Z</date>
+			<key>Release Date</key><date>2025-06-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Killin' It Girl (Remixes)</string>
+			<key>Sort Artist</key><string>j-hope &#38; GloRilla</string>
+			<key>Sort Name</key><string>Killin' It Girl</string>
+			<key>Persistent ID</key><string>308D7FEDABBE0EA2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5246</key>
+		<dict>
+			<key>Track ID</key><integer>5246</integer>
+			<key>Name</key><string>Don’t Say You Love Me</string>
+			<key>Artist</key><string>Jin</string>
+			<key>Album Artist</key><string>Jin</string>
+			<key>Composer</key><string>Nathan Fertig &#38; Wyatt Sanders</string>
+			<key>Album</key><string>Don't Say You Love Me (Remixes) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6375753</integer>
+			<key>Total Time</key><integer>180716</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-24T00:32:47Z</date>
+			<key>Date Added</key><date>2025-06-24T01:32:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3845808595</integer>
+			<key>Play Date UTC</key><date>2025-11-13T00:09:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-11-05T00:07:32Z</date>
+			<key>Release Date</key><date>2025-05-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Say You Love Me (Remixes) - Single</string>
+			<key>Sort Artist</key><string>Jin</string>
+			<key>Sort Name</key><string>Don’t Say You Love Me</string>
+			<key>Persistent ID</key><string>C7B680E9967C976B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5252</key>
+		<dict>
+			<key>Track ID</key><integer>5252</integer>
+			<key>Name</key><string>Don’t Say You Love Me</string>
+			<key>Artist</key><string>Jin</string>
+			<key>Album Artist</key><string>Jin</string>
+			<key>Composer</key><string>Nathan Fertig &#38; Wyatt Sanders</string>
+			<key>Album</key><string>Echo (+2db)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6375753</integer>
+			<key>Total Time</key><integer>180716</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-24T00:33:00Z</date>
+			<key>Date Added</key><date>2025-06-24T01:33:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845803839</integer>
+			<key>Play Date UTC</key><date>2025-11-12T22:50:39Z</date>
+			<key>Release Date</key><date>2025-05-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Echo (+2db)</string>
+			<key>Sort Artist</key><string>Jin</string>
+			<key>Sort Name</key><string>Don’t Say You Love Me</string>
+			<key>Persistent ID</key><string>589B1DA5A97FB738</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5254</key>
+		<dict>
+			<key>Track ID</key><integer>5254</integer>
+			<key>Name</key><string>Don’t Say You Love Me</string>
+			<key>Artist</key><string>Jin</string>
+			<key>Album Artist</key><string>Jin</string>
+			<key>Composer</key><string>Nathan Fertig &#38; Wyatt Sanders</string>
+			<key>Album</key><string>Echo</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6375753</integer>
+			<key>Total Time</key><integer>180716</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-24T00:33:41Z</date>
+			<key>Date Added</key><date>2025-06-24T01:33:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3845905464</integer>
+			<key>Play Date UTC</key><date>2025-11-14T03:04:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-31T04:10:43Z</date>
+			<key>Release Date</key><date>2025-05-16T12:00:00Z</date>
+			<key>Favorited</key><true/>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Echo</string>
+			<key>Sort Artist</key><string>Jin</string>
+			<key>Sort Name</key><string>Don’t Say You Love Me</string>
+			<key>Persistent ID</key><string>12128CB0AEED1483</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5260</key>
+		<dict>
+			<key>Track ID</key><integer>5260</integer>
+			<key>Name</key><string>Don’t Say You Love Me</string>
+			<key>Artist</key><string>Jin</string>
+			<key>Album Artist</key><string>Jin</string>
+			<key>Composer</key><string>Nathan Fertig &#38; Wyatt Sanders</string>
+			<key>Album</key><string>Echo (+1db)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6375753</integer>
+			<key>Total Time</key><integer>180716</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-06-25T22:08:43Z</date>
+			<key>Date Added</key><date>2025-06-25T23:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845812755</integer>
+			<key>Play Date UTC</key><date>2025-11-13T01:19:15Z</date>
+			<key>Release Date</key><date>2025-05-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Echo (+1db)</string>
+			<key>Sort Artist</key><string>Jin</string>
+			<key>Sort Name</key><string>Don’t Say You Love Me</string>
+			<key>Persistent ID</key><string>E03E97C448E1E5D9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5978</key>
+		<dict>
+			<key>Track ID</key><integer>5978</integer>
+			<key>Name</key><string>Who</string>
+			<key>Artist</key><string>Jimin</string>
+			<key>Album Artist</key><string>Jimin</string>
+			<key>Composer</key><string>Jon Bellion, Pete Nappi, Jason Cornet, Pdogg &#38; GHSTLOOP</string>
+			<key>Album</key><string>MUSE (WONDER ver.)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6212880</integer>
+			<key>Total Time</key><integer>170888</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-09-03T16:19:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MUSE (WONDER ver.)</string>
+			<key>Sort Artist</key><string>Jimin</string>
+			<key>Sort Name</key><string>Who</string>
+			<key>Persistent ID</key><string>E69FE9243D81D967</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12402</key>
+		<dict>
+			<key>Track ID</key><integer>12402</integer>
+			<key>Name</key><string>SPAGHETTI</string>
+			<key>Artist</key><string>LE SSERAFIM &#38; j-hope</string>
+			<key>Album Artist</key><string>LE SSERAFIM</string>
+			<key>Composer</key><string>j-hope, SCORE(13), MEGATONE(13), Annika Bennett, JBACH, Elle Campbell, Federico Vindver, Gian Stone, HUH YUNJIN, Phil Leigh, Tobias Wincorn, Alex Jonathan Crofton Ball, "Hitman" Bang, Sakura, Woo Hyun Park &#38; Matt Holmes</string>
+			<key>Album</key><string>SPAGHETTI</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6383358</integer>
+			<key>Total Time</key><integer>171720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-10-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>SPAGHETTI</string>
+			<key>Sort Artist</key><string>LE SSERAFIM &#38; j-hope</string>
+			<key>Sort Name</key><string>SPAGHETTI</string>
+			<key>Persistent ID</key><string>E55EF4393B22F325</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12405</key>
+		<dict>
+			<key>Track ID</key><integer>12405</integer>
+			<key>Name</key><string>Waste It On Me (feat. BTS)</string>
+			<key>Artist</key><string>Steve Aoki</string>
+			<key>Album Artist</key><string>Steve Aoki</string>
+			<key>Composer</key><string>Steve Aoki, Jeff Halavacs, Ryan Ogren, Michael Gazzo, Nate Cyphert, Sean Foreman &#38; Kim Nam Jun</string>
+			<key>Album</key><string>Waste It On Me (feat. BTS) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7013610</integer>
+			<key>Total Time</key><integer>192537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Waste It On Me (feat. BTS) - Single</string>
+			<key>Sort Artist</key><string>Steve Aoki</string>
+			<key>Sort Name</key><string>Waste It On Me (feat. BTS)</string>
+			<key>Persistent ID</key><string>A34456852F8DE245</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12408</key>
+		<dict>
+			<key>Track ID</key><integer>12408</integer>
+			<key>Name</key><string>Seven</string>
+			<key>Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Album Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Composer</key><string>Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas &#38; Latto</string>
+			<key>Album</key><string>Seven (Weekday Ver.) - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6613742</integer>
+			<key>Total Time</key><integer>184160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2023-07-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Seven (Weekday Ver.) - EP</string>
+			<key>Sort Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Sort Name</key><string>Seven</string>
+			<key>Persistent ID</key><string>9C9F7F22B3E88BB0</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12411</key>
+		<dict>
+			<key>Track ID</key><integer>12411</integer>
+			<key>Name</key><string>Winter Ahead</string>
+			<key>Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Album Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Composer</key><string>Park Hyo Shin, V, HYESUNG(혜성), Jesse Harris &#38; Waizmin</string>
+			<key>Album</key><string>Winter Ahead (YUNSEOKCEHOL TRIO Ver.) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8490782</integer>
+			<key>Total Time</key><integer>234895</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-11-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Winter Ahead (YUNSEOKCEHOL TRIO Ver.) - Single</string>
+			<key>Sort Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Sort Name</key><string>Winter Ahead</string>
+			<key>Persistent ID</key><string>2D554B1EC070DECD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12414</key>
+		<dict>
+			<key>Track ID</key><integer>12414</integer>
+			<key>Name</key><string>Seven</string>
+			<key>Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Album Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Composer</key><string>Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas &#38; Latto</string>
+			<key>Album</key><string>Seven (Alesso Remix) - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6611336</integer>
+			<key>Total Time</key><integer>184160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2023-07-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Seven (Alesso Remix) - EP</string>
+			<key>Sort Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Sort Name</key><string>Seven</string>
+			<key>Persistent ID</key><string>7AF31427CD0F60B9</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12417</key>
+		<dict>
+			<key>Track ID</key><integer>12417</integer>
+			<key>Name</key><string>Winter Ahead</string>
+			<key>Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Album Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Composer</key><string>Park Hyo Shin, V, HYESUNG(혜성), Jesse Harris &#38; Waizmin</string>
+			<key>Album</key><string>Winter Ahead (Silent Carol Ver.) - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8490782</integer>
+			<key>Total Time</key><integer>234895</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-11-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Winter Ahead (Silent Carol Ver.) - Single</string>
+			<key>Sort Artist</key><string>V &#38; Park Hyo Shin</string>
+			<key>Sort Name</key><string>Winter Ahead</string>
+			<key>Persistent ID</key><string>CB43EF9E9A631270</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12420</key>
+		<dict>
+			<key>Track ID</key><integer>12420</integer>
+			<key>Name</key><string>Don’t Say You Love Me</string>
+			<key>Artist</key><string>Jin</string>
+			<key>Album Artist</key><string>Jin</string>
+			<key>Composer</key><string>Nathan Fertig &#38; Wyatt Sanders</string>
+			<key>Album</key><string>Echo (+3db)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6375753</integer>
+			<key>Total Time</key><integer>180716</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-05-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Echo (+3db)</string>
+			<key>Sort Artist</key><string>Jin</string>
+			<key>Sort Name</key><string>Don’t Say You Love Me</string>
+			<key>Persistent ID</key><string>A3A19ECBCED077E4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12423</key>
+		<dict>
+			<key>Track ID</key><integer>12423</integer>
+			<key>Name</key><string>Who</string>
+			<key>Artist</key><string>Jimin</string>
+			<key>Album Artist</key><string>Jimin</string>
+			<key>Composer</key><string>Jon Bellion, Pete Nappi, Jason Cornet, Pdogg &#38; GHSTLOOP</string>
+			<key>Album</key><string>MUSE (WANDER ver.)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6212880</integer>
+			<key>Total Time</key><integer>170888</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MUSE (WANDER ver.)</string>
+			<key>Sort Artist</key><string>Jimin</string>
+			<key>Sort Name</key><string>Who</string>
+			<key>Persistent ID</key><string>E83CD1C5F4B0F2E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12426</key>
+		<dict>
+			<key>Track ID</key><integer>12426</integer>
+			<key>Name</key><string>Blood Sweat &#38; Tears (Live)</string>
+			<key>Artist</key><string>BTS</string>
+			<key>Album Artist</key><string>BTS</string>
+			<key>Composer</key><string>Pdogg, RM, SUGA, j-hope, "Hitman" Bang &#38; Do Hoon</string>
+			<key>Album</key><string>PERMISSION TO DANCE ON STAGE (LIVE)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2124386</integer>
+			<key>Total Time</key><integer>46410</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2025-07-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PERMISSION TO DANCE ON STAGE (LIVE)</string>
+			<key>Sort Artist</key><string>BTS</string>
+			<key>Sort Name</key><string>Blood Sweat &#38; Tears (Live)</string>
+			<key>Persistent ID</key><string>3EB4E0DE3DF1CB8B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>12429</key>
+		<dict>
+			<key>Track ID</key><integer>12429</integer>
+			<key>Name</key><string>Seven</string>
+			<key>Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Album Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Composer</key><string>Andrew Watt, Jon Bellion, Henry Walter, Theron Makiel Thomas &#38; Latto</string>
+			<key>Album</key><string>Seven (Weekend Ver.) - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6611349</integer>
+			<key>Total Time</key><integer>184160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-11-14T04:49:30Z</date>
+			<key>Date Added</key><date>2025-11-14T04:49:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2023-07-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Seven (Weekend Ver.) - EP</string>
+			<key>Sort Artist</key><string>Jung Kook &#38; Latto</string>
+			<key>Sort Name</key><string>Seven</string>
+			<key>Persistent ID</key><string>D7CE81EFA4A5CC08</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>bcd daily missions</string>
+			<key>Description</key><string>11/13
+
+playlist created via playlist.laramon.ch and shifted to AM</string>
+			<key>Playlist ID</key><integer>12472</integer>
+			<key>Playlist Persistent ID</key><string>0377C0955927F6F6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4778</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2064</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2917</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12414</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12408</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2098</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
