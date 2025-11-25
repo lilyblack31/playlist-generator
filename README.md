@@ -45,46 +45,87 @@ This ensures:
 * No ambiguous title matching
 * Exact linking to your Apple Music Library items
 
-### 🔄 3. Round-Robin Spacing Engine
+## 🔄 3. **Round-Robin Spacing Engine (Strict + Randomized Modes)**
 
-This scheduler guarantees that repeated tracks are spaced out so as to maintain good streaming practice:
+Your playlist generator now includes a **next-generation spacing engine** that guarantees good streaming practice while giving the user flexibility between **deterministic** and **human-like** playlist ordering.
 
-* Preferred gap = 3
-* Fallback gap = 2
-* Never allows repeats with gap = 1
-* Uses max-heap + cooldown algorithm for best correctness
+### ✅ **Guaranteed Spacing Rules**
 
-If impossible, the tool **explains why** and suggests fixes.
+* **Preferred gap:** 3
+* **Fallback gap:** 2
+* **Never** produces repeats with gap = 1
+* **Mathematically safe**: if the counts cannot satisfy the chosen gap, the tool analyzes and explains *exactly why*.
 
-### 🎨 4. Interactive Editing (Add, Substitute, Recount, Attach PID)
+### 🎛️ **Two Scheduling Modes**
 
-Use a menu-driven interface:
+When generating a playlist, the user can choose:
+
+#### **1️⃣ Strict Round Robin (Deterministic)**
+
+* Produces perfectly even spacing
+* Highly stable, predictable ordering
+* Ideal for structured workflows or testing
+
+#### **2️⃣ Randomized Round Robin (Human-Like Shuffle)**
+
+* Starts from a **guaranteed valid schedule**
+* Then introduces **controlled randomness** through safe swaps
+* Always preserves the min-gap
+* Avoids repetitive cycles like `A → B → C → A → B → C`
+* More natural and varied listening experience
+
+### 🧠 When Scheduling Is Impossible
+
+If counts *cannot* satisfy even the fallback gap (rare but possible):
+
+* The tool **never crashes**
+* Instead, it provides a **clear, friendly explanation**:
+
+  * Which song(s) cause the issue
+  * How many more "other" tracks are needed
+  * OR how many fewer repeats you should assign
+* You may:
+
+  * Reduce the heavy song’s count
+  * Increase counts of other songs
+  * Add a new song with a given count
+  * Then immediately regenerate the schedule
+
+This ensures you always end up with a **fully valid playlist**.
+
+## 🎨 4. **Interactive Editing (Add, Substitute, Recount, Attach PID)**
+
+Use a menu-driven interface to curate your playlist:
 
 * **A)** Add songs
 * **S)** Substitute existing songs
-* **C)** Change counts
+* **C)** Change repeat counts
 * **P)** Attach or overwrite PID
 * **D)** Set playlist description
 * **Q)** Finish editing
 
-### 🎧 5. Direct Apple Music Integration (AppleScript)
+Your TXT playlist is always kept clean, stable, and consistent.
 
-After generating your TXT, you can directly apply it:
+## 🎧 5. **Direct Apple Music Integration (AppleScript)**
 
-* Clear playlist or append
-* Add tracks by PID
-* If PID missing: fallback to Title–Artist match
-* URL-based tracks are disallowed (avoids flaky behavior)
-* Only songs *already in your Library* are added
-* SILENT + background-safe — no autoplay required
+After generating your TXT playlist, the tool can apply it directly to Apple Music:
 
-### 📝 6. Playlist Description Support
+* Clear existing playlist or append
+* Add tracks by **PID** (fastest + most reliable)
+* If no PID: title–artist fallback match
+* Automatically rejects URL-based entries (unstable in AppleScript)
+* Only adds songs present in the **local Library**
+* Fully background-safe — **no autoplay**
 
-* Reads the **existing description** from Music.app
-* Lets you **replace, keep, or generate defaults**
-* Default uses **UTC date**:
-  *Example*:
-  `bcd daily missions – Nov 25`
+## 📝 6. **Playlist Description Support**
+
+* Automatically reads the existing playlist description from Music.app
+* You can choose to **replace**, **keep**, or **auto-generate** a fresh description
+* Default format uses UTC date, e.g.:
+
+  ```
+  bcd daily missions — Nov 25
+  ```
 
 ---
 

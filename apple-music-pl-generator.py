@@ -82,6 +82,29 @@ def choose_base_playlist_name():
     return answer
 
 
+def choose_scheduler_mode():
+    """
+    Ask the user whether they want strict or randomized ordering.
+    Returns "strict" or "random".
+    """
+    choice = questionary.select(
+        "Choose scheduling mode:",
+        choices=[
+            questionary.Choice(
+                "Strict Round Robin (deterministic, even spacing)",
+                value="strict",
+            ),
+            questionary.Choice(
+                "Randomized Round Robin (more human-like)",
+                value="random",
+            ),
+        ],
+        qmark="🌀",
+    ).ask()
+
+    return choice or "strict"
+
+
 # ---------- Helper: description handling ----------
 
 def handle_playlist_description_update(playlist_name: str) -> None:
@@ -272,8 +295,28 @@ def new_playlist_flow(default_name=None):
         print(color("❌ No playlist name given.", FG_RED, BOLD))
         return
 
+    mode = choose_scheduler_mode()
+    use_random = (mode == "random")
+
     print("\nGenerating round-robin order...")
-    ordered = generate_round_robin(tracks)
+    try:
+        ordered = generate_round_robin(
+            tracks,
+            preferred_gap=3,
+            min_allowed_gap=2,
+            randomize=use_random,
+            seed=int(datetime.now(timezone.utc).timestamp()),
+        )
+    except ValueError as e:
+        print(color("\n❌ Could not schedule playlist with current counts.", FG_RED, BOLD))
+        print(color(str(e), FG_RED))
+        print(color(
+            "Tip: reduce the count for the most frequent song(s) or add more songs, "
+            "then run this again.",
+            FG_YELLOW,
+        ))
+        return
+
     txt_path = write_playlist_file(playlist_name, ordered)
 
     # Apply to Apple Music (with URL cleanup + description handling)
@@ -324,7 +367,28 @@ def work_on_playlist_flow():
         editor.edit_playlist_counts(counter)
 
         tracks = [{"name": name, "count": count} for name, count in counter.items()]
-        ordered = generate_round_robin(tracks)
+
+        mode = choose_scheduler_mode()
+        use_random = (mode == "random")
+
+        try:
+            ordered = generate_round_robin(
+                tracks,
+                preferred_gap=3,
+                min_allowed_gap=2,
+                randomize=use_random,
+                seed=int(datetime.now(timezone.utc).timestamp()),
+            )
+        except ValueError as e:
+            print(color("\n❌ Could not schedule playlist with current counts.", FG_RED, BOLD))
+            print(color(str(e), FG_RED))
+            print(color(
+                "Tip: go back and adjust counts (especially for the top repeated song), "
+                "then try again.",
+                FG_YELLOW,
+            ))
+            return
+
         txt_path = write_playlist_file(playlist_name, ordered, output_path=txt_path)
 
         # Apply to Apple Music (with URL cleanup + description handling)
@@ -344,7 +408,28 @@ def work_on_playlist_flow():
             editor.edit_playlist_counts(counter)
 
             tracks = [{"name": name, "count": count} for name, count in counter.items()]
-            ordered = generate_round_robin(tracks)
+
+            mode = choose_scheduler_mode()
+            use_random = (mode == "random")
+
+            try:
+                ordered = generate_round_robin(
+                    tracks,
+                    preferred_gap=3,
+                    min_allowed_gap=2,
+                    randomize=use_random,
+                    seed=int(datetime.now(timezone.utc).timestamp()),
+                )
+            except ValueError as e:
+                print(color("\n❌ Could not schedule playlist with current counts.", FG_RED, BOLD))
+                print(color(str(e), FG_RED))
+                print(color(
+                    "Tip: choose 'Edit songs/counts' again and either "
+                    "reduce the most frequent song or add/increase other songs.",
+                    FG_YELLOW,
+                ))
+                return
+
             txt_path = write_playlist_file(playlist_name, ordered, output_path=txt_path)
 
             # Apply to Apple Music (with URL cleanup + description handling)
