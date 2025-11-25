@@ -47,7 +47,7 @@ This ensures:
 
 ## 🔄 3. **Round-Robin Spacing Engine (Strict + Randomized Modes)**
 
-Your playlist generator now includes a **next-generation spacing engine** that guarantees good streaming practice while giving the user flexibility between **deterministic** and **human-like** playlist ordering.
+The Playlist generator now includes a **next-generation spacing engine** that guarantees good streaming practice while giving the user flexibility between **deterministic** and **human-like** playlist ordering.
 
 ### ✅ **Guaranteed Spacing Rules**
 
